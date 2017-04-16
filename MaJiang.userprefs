@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/NetWork/SocketManager.cs">
+    <Files>
+      <File FileName="Assets/script/Game/Main.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/NetWork/SocketManager.cs" Line="199" Column="30" />
+      <File FileName="Assets/script/Game/Timer.cs" Line="87" Column="22" />
+      <File FileName="Assets/script/ReadyToGame/ReadyToGame.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/Game/Hand.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/ReadyToGame/BatteryAndTime.cs" Line="24" Column="15" />
+      <File FileName="Assets/script/Game/ChiEvent.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/Game/MaJiangEvent.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/Login/Login.cs" Line="5" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/SpadeAce/Documents/项目/MaJiang/Assets/goIntoNextStep.cs" line="10" column="1" />
+      <Breakpoint file="/Users/SpadeAce/Documents/项目/MaJiang/Assets/Loading.cs" line="74" column="1" />
+      <Breakpoint file="/Users/SpadeAce/Documents/项目/MaJiang/Assets/script/JoinRoom/KeyBoard.cs" line="68" column="1" />
+      <Breakpoint file="/Users/SpadeAce/Documents/项目/MaJiang/Assets/script/Game/UserAction.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
